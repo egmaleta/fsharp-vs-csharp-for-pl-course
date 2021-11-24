@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6UQMLvol84a0WvJ5RndOwWcIKgABtdxksQsrsLnjehkbA+HJ3ZKTEqTsygEFwJNitujOPrnllJ7N/G068tNbQ==",
+  "success": true,
+  "projectFilePath": "/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/fsharp/fsharp.fsproj",
+  "expectedPackageFiles": [
+    "/home/yeyon/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/home/yeyon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
