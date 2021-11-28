@@ -1,0 +1,15 @@
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/bin/Debug/net6.0/csharp
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/bin/Debug/net6.0/csharp.deps.json
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/bin/Debug/net6.0/csharp.runtimeconfig.json
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/bin/Debug/net6.0/csharp.dll
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/bin/Debug/net6.0/ref/csharp.dll
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/bin/Debug/net6.0/csharp.pdb
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/obj/Debug/net6.0/csharp.dll
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/obj/Debug/net6.0/ref/csharp.dll
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/obj/Debug/net6.0/csharp.pdb
+/home/yeyon/Code/3ro/LP/fsharp-vs-csharp-for-pl-course/src/csharp/obj/Debug/net6.0/csharp.genruntimeconfig.cache
